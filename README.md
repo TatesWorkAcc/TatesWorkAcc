@@ -1,4 +1,4 @@
-<p><img src="![image](https://github.com/user-attachments/assets/c73aebdb-6940-4787-8ada-df72fd06dd78)" alt="coding banner" /> </p>
+![image](https://github.com/user-attachments/assets/c73aebdb-6940-4787-8ada-df72fd06dd78)
 
 <h1 align="center">Hi 👋, I'm Brandon Tate</h1>
 <h3 align="center">A Fullstack Developer in the making from Pensacola, Florida</h3>
