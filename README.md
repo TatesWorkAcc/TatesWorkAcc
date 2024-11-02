@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tatesworkacc@gmail.com**
 
-- ⚡ Fun fact **I type alot**                                                 ![image](https://github.com/user-attachments/assets/9be030c3-f9d8-4367-aa05-52c8db1b5acd)
+- ⚡ Fun fact **I type alot**                                                                                   ![image](https://github.com/user-attachments/assets/9be030c3-f9d8-4367-aa05-52c8db1b5acd)
 
 
 <h3 align="left">Connect with me:</h3>
