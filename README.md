@@ -1,5 +1,6 @@
 ![coding](https://github.com/user-attachments/assets/80ad2b1e-a8a7-4fd0-a07f-251548d55b02)
 
+<img align="right" alt="cat" width="400" src="https://tenor.com/view/cat-gif-26024704">
 <h1 align="center">Hi 👋, I'm Brandon Tate</h1>
 <h3 align="center">A Fullstack Developer in the making from Pensacola, Florida</h3>
 
@@ -11,8 +12,7 @@
 
 - 📫 How to reach me **tatesworkacc@gmail.com**
 
-- ⚡ Fun fact **I type alot**                                                                                   ![image](https://github.com/user-attachments/assets/9be030c3-f9d8-4367-aa05-52c8db1b5acd)
-
+- ⚡ Fun fact **I type alot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
