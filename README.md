@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c73aebdb-6940-4787-8ada-df72fd06dd78)
+![coding](https://github.com/user-attachments/assets/80ad2b1e-a8a7-4fd0-a07f-251548d55b02)
 
 <h1 align="center">Hi 👋, I'm Brandon Tate</h1>
 <h3 align="center">A Fullstack Developer in the making from Pensacola, Florida</h3>
