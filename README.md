@@ -1,8 +1,9 @@
 ![coding](https://github.com/user-attachments/assets/80ad2b1e-a8a7-4fd0-a07f-251548d55b02)
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
+
 <h1 align="center">Hi 👋, I'm Brandon Tate</h1>
 <h3 align="center">A Fullstack Developer in the making from Pensacola, Florida</h3>
+<img align="right" alt="Coding" width="400"  src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatesworkacc&label=Profile%20views&color=0e75b6&style=flat" alt="tatesworkacc" /> </p>
 
