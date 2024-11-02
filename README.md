@@ -1,7 +1,6 @@
 ![coding](https://github.com/user-attachments/assets/80ad2b1e-a8a7-4fd0-a07f-251548d55b02)
 
-<img align="right" alt="cat" width="400" src="[![cat](https://github.com/user-attachments/assets/3f984a12-e5e6-4bca-b525-10b46c740d02)](https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif)">
-">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif)">
 <h1 align="center">Hi 👋, I'm Brandon Tate</h1>
 <h3 align="center">A Fullstack Developer in the making from Pensacola, Florida</h3>
 
