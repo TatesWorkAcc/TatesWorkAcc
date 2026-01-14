@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Brandon Tate</h1>
-<h3 align="center">A Front-End Developer</h3>
+
 <img align="right" alt="Coding" width="350"  src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatesworkacc&label=Profile%20views&color=0e75b6&style=flat" alt="tatesworkacc" /> </p>
