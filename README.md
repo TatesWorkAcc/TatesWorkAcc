@@ -7,9 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatesworkacc&label=Profile%20views&color=0e75b6&style=flat" alt="tatesworkacc" /> </p>
 
-
-- 🌱 My Portfolio Website is **https://tatesworkacc.github.io/portfolio-site/**
-
 - 📫 How to reach me **tatesworkacc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
